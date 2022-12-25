@@ -1,0 +1,14 @@
+table{
+background-color: black;
+border:solid orange 2px ;
+color: white;
+margin: auto;
+border-collapse: collapse;
+width: 1000px;
+
+}
+td,th{
+    border: solid orange 2px ;
+    padding: 15px;
+    text-align: left;
+}  
